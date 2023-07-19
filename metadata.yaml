@@ -1,0 +1,31 @@
+_repo: Religion-and-the-rise-of-capitalism-b-A-historial-study-Holland-Memorial-Lectures-1922_71223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tawney, R. H. (Richard Henry)
+    alias: Tawney, Richard Henry
+    birthdate: 1880
+    deathdate: 1962
+    gutenberg_agent_id: '40560'
+    url: http://www.gutenberg.org/2009/agents/40560
+    wikipedia: http://en.wikipedia.org/wiki/R._H._Tawney
+description: ''
+gutenberg_issued: '2023-07-18'
+identifiers:
+  gutenberg: '71223'
+language: en
+pgterms:marc904: https://archive.org/details/religionriseofca0000unse_j5x7/
+pgterms:marc905: 20220826224101tawney
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Lukas Bystricky and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bHarcourth, Brace and Company, Inc., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Religion and the rise of capitalism : $b A historial study (Holland Memorial
+  Lectures, 1922)'
+url: http://www.gutenberg.org/ebooks/71223
